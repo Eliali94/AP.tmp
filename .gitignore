@@ -1,2 +1,11 @@
-this is an ignore file
-nothing would add or commit to git
+#this is an ignore file
+#nothing would add or commit to git
+
+test.csv
+
+
+# what files we can add inside .gitignore
+#.csv
+#.txt
+#.anyextension
+# dir_name
